@@ -15,7 +15,7 @@ export default function Home() {
             <span className="text-xl font-medium tracking-tight">icconic<span className="font-bold">blue</span></span>
           </Link>
           <nav className="hidden md:flex items-center gap-8 text-sm font-medium text-slate-600">
-            <Link href="/Wealth" className="hover:text-teal-600 transition-colors">Wealth Management</Link>
+            <Link href="/wealth" className="hover:text-teal-600 transition-colors">Wealth Management</Link>
             <Link href="/education" className="hover:text-teal-600 transition-colors">Education Consultancy</Link>
             <Link href="/business" className="hover:text-teal-600 transition-colors">Business Coaching</Link>
             <Link href="#" className="hover:text-teal-600 transition-colors">Resources</Link>

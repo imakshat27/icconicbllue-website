@@ -15,7 +15,7 @@ export default function EducationConsultancy() {
             <span className="text-xl font-medium tracking-tight">icconic<span className="font-bold">blue</span></span>
           </Link>
           <nav className="hidden md:flex items-center gap-8 text-sm font-medium text-slate-600">
-            <Link href="/Wealth" className="hover:text-teal-600 transition-colors">Wealth Management</Link>
+            <Link href="/wealth" className="hover:text-teal-600 transition-colors">Wealth Management</Link>
             <Link href="/education" className="text-teal-700 font-semibold transition-colors border-b-2 border-teal-700 py-1 -mb-[3px]">Education Consultancy</Link>
             <Link href="/business" className="hover:text-teal-600 transition-colors">Business Coaching</Link>
             <Link href="#" className="hover:text-teal-600 transition-colors">Resources</Link>
